@@ -2,7 +2,7 @@
 
 #### Write two tests for the following functions using test framework assertion
 
-#### Add two number
+#### Add two numberk
 
 1. Write a function that takes two input `numA` and `numB` and returns the sum of both numbers.
 2. After writing the function write 5 tests for above function with different values
